@@ -16,13 +16,9 @@ Single-cycle **RV32I RISC-V core** written in **Verilog**, built and simulated u
 3. Run Behavioral Simulation to verify functionality.  
 4. Synthesize and implement for the target FPGA.  
 
-## Results 
+
 - **Target FPGA:** Xilinx Artix-7 XC7A100TCSG324-1  
-- **Max frequency (Fmax):**  
-- **Resource utilization:**  
-  - LUTs: ` `  
-  - Flip-Flops: ``  
-  - BRAM / DSP : ``  
+
 
 ## Tools
 - Verilog HDL  
